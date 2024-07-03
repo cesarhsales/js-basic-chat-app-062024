@@ -9,3 +9,8 @@ node server.js
 2. Open your browser and go to http://localhost:3000.
 
 You should now see the chat app interface. Open the same URL in multiple tabs or different browsers to test the real-time communication.
+
+## Built With
+- node.js (https://nodejs.org/pt)
+- express (https://expressjs.com/)
+- socket.io (https://socket.io/)
